@@ -121,14 +121,14 @@ while($stmt_f->fetch()) {
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous">
     <link rel="stylesheet" href="/css/main.css">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.png" />
-    <title>PName</title>
+    <title>UNI-MYSPACE</title>
 </head>
 
 <body>
-    <nav class="navbar navbar-expand-md navbar-light bg-light">
+    <nav class="navbar navbar-expand-md navbar-light" style="background-color: #D10E48;">
         <a class="navbar-brand" href="#">
-            <img src="/favicon.ico" width="30" height="30" class="d-inline-block align-top" alt="">
-            PName
+            <img src="/favicon.png" width="30" height="30" class="d-inline-block align-top" alt="">
+            UNI-MYSPACE
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
