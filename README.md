@@ -32,6 +32,7 @@ manner
 ![image](https://user-images.githubusercontent.com/32039212/174486875-20695904-c95d-45d3-ae0c-d495f646785d.png)
 ![image](https://user-images.githubusercontent.com/32039212/174486882-4d38fa9b-59d8-4d2d-b606-08979c29a0e9.png)
 
+
 8. Logout
 ![image](https://user-images.githubusercontent.com/32039212/174486899-82af325b-a535-4cf1-8525-b744fc6d22da.png)
 ![image](https://user-images.githubusercontent.com/32039212/174486907-7c9f8e38-0ce1-4ba2-8f80-2e8ccc557c02.png)
